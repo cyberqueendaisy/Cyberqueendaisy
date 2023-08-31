@@ -14,6 +14,11 @@
       - [Google Cybersecurity Certification](https://drive.google.com/file/d/1TiOOj_hv_OVq4TpH9Twmsrlcb41YSOcj/view?usp=drivesdk)
       - [Blue Team Junior Analyst](https://drive.google.com/file/d/1NRGx8x6J2d7FTZiCuqATYQq67-rrzU-q/view?usp=drivesdk)
 
+     <h2> Skills </h2>
+     
+      - Digital Forensics 
+      - Risk Assessment 
+
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
@@ -34,6 +39,15 @@
       - [Google Data Analysis Certification](https://drive.google.com/file/d/1-qy5ypflmLZz7AehgYbRDmuf_5N1uqc0/view?usp=drive_link)
       - [Data Analysis in Excel](https://drive.google.com/file/d/1Vw7uVaeoxk_q5HEM06xFL3Gd9sxnUwph/view?usp=sharing)
       - [Excel Skills for Data Analytics](https://drive.google.com/file/d/102_W4L7ARElSyWlvSn5l2PGuN_1bcvhb/view?usp=sharing)
+        
+     <h2> Skills </h2>
+      
+      - Excel
+      - SQL
+      - Power BI
+      - Tableau
+      - Python
+    
       
 
 
