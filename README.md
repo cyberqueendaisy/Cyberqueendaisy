@@ -22,7 +22,12 @@
   - [Doctor's Appointment Analysis](https://github.com/daisydicksonhart/Data-Analysis/blob/main/Doctor's%20Appointment.ipynb)
   - [Maven Airline Exploratory analysis](https://github.com/daisydicksonhart/Data-Analysis/blob/main/Maven_Airline%20(1).ipynb)
   - [Web Scrapping](https://github.com/daisydicksonhart/Data-Analysis/blob/main/Web%20Scrapping.ipynb)
+- <b> Visualization </b>
 
+  - [TedTalk Show Visualization](https://drive.google.com/file/d/1rdurNhTBPckYt81wDyLg82wkto3Kdx55/view?usp=drivesdk)
+  - [DSN Business Analytics](https://drive.google.com/file/d/1rfZPqn0EvmQfxmhlOIn9bqjPz2ak6mgF/view?usp=drivesdk)
+  - [Pie Bakery Analysis](https://drive.google.com/file/d/1rXIYlc1E90cuzqISS1epJj_oX1DthxMZ/view?usp=drivesdk)
+    
     <h2> Certifications </h2>
 
       - [Google Data Analysis Certification](https://drive.google.com/file/d/1-qy5ypflmLZz7AehgYbRDmuf_5N1uqc0/view?usp=drive_link)
