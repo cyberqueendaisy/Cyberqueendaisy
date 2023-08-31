@@ -3,9 +3,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b> Risk Assessment (Datacom)
+- <b> Risk Assessment </b>
 
   - [Practicing Risk Assessment](https://github.com/cyberqueendaisy/riskassessment)
+- <b> Diginal Forensics </b>
   - [Digital Forensics](
     https://docs.google.com/document/d/1UoTE1gvAUUCpE8DUiZJKUZuEYMwCippY/edit?usp=drivesdk&ouid=101385060451788388964&rtpof=true&sd=true)
     <h2> Certifications </h2>
