@@ -35,10 +35,6 @@
       - [Excel Skills for Data Analytics](https://drive.google.com/file/d/102_W4L7ARElSyWlvSn5l2PGuN_1bcvhb/view?usp=sharing)
       
 
-<h2>📺 YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_)
-
 
 <h2> 🤳 Connect with me:</h2>
 
