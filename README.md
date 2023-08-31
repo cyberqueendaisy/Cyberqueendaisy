@@ -1,7 +1,7 @@
 
 <h1>Hello, I’m Daisy! <br/><h2><a href=https://github.com/cyberqueendaisy>Cybersecurity Analyst</a>, <a href=https://www.linkedin.com/in/daisydicksonhart/>Data Analyst</a></h2>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2><br>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> Risk Assessment (Datacom)
 
@@ -14,7 +14,7 @@
       - [Blue Team Junior Analyst](https://drive.google.com/file/d/1NRGx8x6J2d7FTZiCuqATYQq67-rrzU-q/view?usp=drivesdk)
 
 
-<h2>👨‍💻 Data Analytics Projects </h2>
+<h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b> Python </b>
 
