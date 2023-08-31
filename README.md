@@ -6,8 +6,8 @@
 - <b> Risk Assessment (Datacom)
 
   - [Practicing Risk Assessment](https://github.com/cyberqueendaisy/riskassessment)
-  - [Test](https://github.com/cyberqueendaisy/riskassessment)
-    
+  - [Digital Forensics](
+    https://docs.google.com/document/d/1UoTE1gvAUUCpE8DUiZJKUZuEYMwCippY/edit?usp=drivesdk&ouid=101385060451788388964&rtpof=true&sd=true)
     <h2> Certifications </h2>
     
       - [Google Cybersecurity Certification](https://drive.google.com/file/d/1TiOOj_hv_OVq4TpH9Twmsrlcb41YSOcj/view?usp=drivesdk)
