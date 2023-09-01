@@ -7,11 +7,10 @@
 
   - [Practicing Risk Assessment](https://github.com/cyberqueendaisy/riskassessment)
 - <b> Diginal Forensics </b>
-  - [Digital Forensics](
-    https://docs.google.com/document/d/1UoTE1gvAUUCpE8DUiZJKUZuEYMwCippY/edit?usp=drivesdk&ouid=101385060451788388964&rtpof=true&sd=true)
+  - [Digital Forensics](https://github.com/cyberqueendaisy/cybersecurity/tree/main/Digital%20Forensics)
     <h2> Certifications </h2>
     
-      - [Google Cybersecurity Certification](https://drive.google.com/file/d/1TiOOj_hv_OVq4TpH9Twmsrlcb41YSOcj/view?usp=drivesdk)
+      - [Google Cybersecurity](https://drive.google.com/file/d/1TiOOj_hv_OVq4TpH9Twmsrlcb41YSOcj/view?usp=drivesdk)
       - [Blue Team Junior Analyst](https://drive.google.com/file/d/1NRGx8x6J2d7FTZiCuqATYQq67-rrzU-q/view?usp=drivesdk)
 
      <h2> Skills </h2>
