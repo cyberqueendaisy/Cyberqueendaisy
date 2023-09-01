@@ -5,7 +5,7 @@
 
 - <b> Risk Assessment </b>
 
-  - [Practicing Risk Assessment](https://github.com/cyberqueendaisy/riskassessment)
+  - [Practicing Risk Assessment](https://github.com/cyberqueendaisy/cybersecurity/tree/main/Risk%20Assessment)
 - <b> Diginal Forensics </b>
   - [Digital Forensics](https://github.com/cyberqueendaisy/cybersecurity/tree/main/Digital%20Forensics)
     <h2> Certifications </h2>
