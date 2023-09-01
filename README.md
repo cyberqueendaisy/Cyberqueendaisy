@@ -1,12 +1,13 @@
 
-<h1>Hello, I’m Daisy! <br/><h2><a href=https://github.com/cyberqueendaisy>Cybersecurity Analyst</a> | <a href=https://www.linkedin.com/in/daisydicksonhart/>Data Analyst</a></h2>
+<h1>Hello, I’m Daisy! <br>
+   <a href=https://github.com/cyberqueendaisy>Cybersecurity Analyst</a> | <a href=https://www.linkedin.com/in/daisydicksonhart/>Data Analyst</a></h2>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> Risk Assessment </b>
 
   - [Practicing Risk Assessment](https://github.com/cyberqueendaisy/cybersecurity/tree/main/Risk%20Assessment)
-- <b> Diginal Forensics </b>
+- <b> Digital Forensics </b>
   - [Digital Forensics](https://github.com/cyberqueendaisy/cybersecurity/tree/main/Digital%20Forensics)
     <h2> Certifications </h2>
     
