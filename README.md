@@ -1,6 +1,6 @@
 
 <h1>Hello, I’m Daisy! <br>
-   <a href=https://github.com/cyberqueendaisy>Cybersecurity Analyst</a> | <a href=https://www.linkedin.com/in/daisydicksonhart/>Data Analyst</a></h2>
+   <a href=https://github.com/cyberqueendaisy>Cybersecurity Analyst</a> | <a href=https://www.daisydicksonhart.weebly.com/>Data Analyst</a></h2>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
