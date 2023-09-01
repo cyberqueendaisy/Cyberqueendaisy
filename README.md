@@ -28,6 +28,7 @@
   - [Doctor's Appointment Analysis](https://github.com/daisydicksonhart/Data-Analysis/blob/main/Doctor's%20Appointment.ipynb)
   - [Maven Airline Exploratory analysis](https://github.com/daisydicksonhart/Data-Analysis/blob/main/Maven_Airline%20(1).ipynb)
   - [Web Scrapping](https://github.com/daisydicksonhart/Data-Analysis/blob/main/Web%20Scrapping.ipynb)
+  
 - <b> Visualization </b>
 
   - [TedTalk Show Visualization](https://drive.google.com/file/d/1rdurNhTBPckYt81wDyLg82wkto3Kdx55/view?usp=drivesdk)
