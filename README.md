@@ -9,7 +9,7 @@
   - [Digital Forensics](https://github.com/cyberqueendaisy/cybersecurity/tree/main/Digital%20Forensics)
 - <b> Security Policy </b>
 
-  - [Security Policy](https://github.com/cyberqueendaisy/Security-Policy/tree/main)
+  - [Security Policy](https://github.com/cyberqueendaisy/cybersecurity/tree/main/Security%20Policy)
 - <b> Risk Assessment </b>
 
   - [Risk Assessment](https://github.com/cyberqueendaisy/cybersecurity/tree/main/Risk%20Assessment)
