@@ -2,6 +2,9 @@
 <h1>Hello, I’m Daisy! <br>
    <a href=https://github.com/cyberqueendaisy>Cybersecurity Analyst</a> | <a href=https://www.daisydicksonhart.weebly.com/>Data Analyst</a></h2>
 
+   
+Data analyst turned tech enthusiast eager to pivot my career towards the dynamic field of cybersecurity, where my analytical mindset and problem-solving skills can be harnessed to fortify digital environments against evolving threats. I am now driven to harness my analytical mindset and problem-solving skills to safeguard digital landscapes. Passionate about understanding cyber threats and developing strategies to mitigate risks, I am actively pursuing certifications and skill development to transition seamlessly into the cybersecurity realm. Excited to connect with professionals in both data analysis and cybersecurity, as I embark on this thrilling new journey to contribute to a safer digital world.
+
 <h1 style=border-bottom:0>👨‍💻 Cybersecurity Projects:</h1>
 
 
